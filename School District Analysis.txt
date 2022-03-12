@@ -1,0 +1,23 @@
+The analysis should contain the following:
+
+    Overview of the school district analysis: Explain the purpose of this analysis.
+
+	The purpose of the this analysis is how the reading and math score are affected by changing 9th grade score	
+	to NaH.
+
+    Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+        How is the district summary affected?
+	  District summary performance is improved
+	![District summary](/District.png)
+	  		
+        How is the school summary affected?
+	  School summary performance has improved for reading and math 
+	![School summary](/School.png)
+        How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+        The grade improve significantly
+		How does replacing the ninth-grade scores affect the following:
+            Math and reading scores by grade Scores go up
+            Scores by school spending  Thomas spends less than the district but has better scores
+            Scores by school size Scores are better even though the school is smaller
+            Scores by school type Charter school has been averages for both math and reading.
+
